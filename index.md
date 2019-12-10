@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my blog - Sarah Krabacher
 
-I'm glad you are here. I plan to talk about ...
+Full Stack JavaScript Developer
